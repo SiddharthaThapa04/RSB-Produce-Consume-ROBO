@@ -51,7 +51,7 @@ The workflow is split into two independently runnable tasks:
 │  Convert to Table Structure                             │
 │         │                                               │
 │         ▼                                               │
-│  Filter: rate < 5.0 & gender == BTSX                   │
+│  Filter: rate < 5.0 & gender == BTSX                    │
 │         │                                               │
 │         ▼                                               │
 │  Sort by Year (desc) → Deduplicate by Country           │
